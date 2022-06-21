@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JAVA_CHATTING_APPLICATION:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAVA_CHATTING_APPLICATION_jar</output-path>
+    <root id="archive" name="JAVA_CHATTING_APPLICATION.jar">
+      <element id="module-output" name="JAVA_CHATTING_APPLICATION" />
+    </root>
+  </artifact>
+</component>
